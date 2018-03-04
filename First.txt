@@ -1,2 +1,6 @@
 hello world from github, KarthikG !!!
+<<<<<<< HEAD
 First master branch commit
+=======
+Feature branch changes
+>>>>>>> ac095a5aa082c65f0d01a08977cccb03365e90ea
